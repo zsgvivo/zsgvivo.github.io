@@ -23,12 +23,14 @@ My current research interest includes Multimodal Large Language Model and Reinfo
 
 
 # 🔥 News
+- *2024.7*: &nbsp;🎉🎉  Graduated with a B.Eng. in Automation from Tsinghua University; joined IIGroup ​to begin my Master's studies.
 - *2002.10*: &nbsp;🎉🎉 I was born.
 
 # 📝 Publications 
-[PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907), co-first author
+- [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907), co-first author
 
-<!-- # 🎖 Honors and Awards -->
+# 🎖 Honors and Awards
+- Efficiency Prize(ranked 1/150), NIPS 2024 LLM Merging Challenge
 
 # 📖 Educations
 - *2024.09 - now*, Master, SIGS, Tsinghua University, Shenzhen
