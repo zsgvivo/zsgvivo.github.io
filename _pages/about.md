@@ -29,8 +29,10 @@ My current research interest includes Multimodal Large Language Model and Reinfo
 # 📝 Publications 
 - [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907), co-first author
 
-# 🎖 Awards
-- Efficiency Prize(ranked 1/150), NIPS 2024 LLM Merging Challenge
+# 🏆 Competitions
+- Efficiency Prize(ranked 1/150), [NIPS 2024 LLM Merging Challenge](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard)
+- 4th Place (4/53) in [Kingsoft Office Chineses Grammar Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board)
+<!-- - ranked 4/53, Chinese Text Proofreading Competition, Kingsoft Office 2024 Algorithm Challenge -->
 
 # 📖 Educations
 - *2024.09 - now*, Master, SIGS, Tsinghua University, Shenzhen
